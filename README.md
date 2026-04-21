@@ -1,4 +1,4 @@
-# Travel Brainstorm
+# Viajei!
 
 Gerador de roteiros de viagem com IA. Next.js 15 (App Router) + Tailwind v4 + shadcn/ui, chamando a API da Anthropic no servidor com `claude-opus-4-7`.
 
